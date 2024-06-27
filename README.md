@@ -2,7 +2,7 @@
 
 Passionate Web Developer | WEB3 Enthusiast
 
-👋 Welcome to my GitHub profile! I'm Raghav Dutta, a B.Tech gradute with a strong interest in web development and WEB3. I enjoy exploring the latest technologies and applying them to solve real-world problems.
+👋 Welcome to my GitHub profile! I'm Raghav Dutta, B.Tech gradute from BIT Mesra with a strong interest in web development and WEB3. I enjoy exploring the latest technologies and applying them to solve real-world problems.
 
 💻 In the realm of web development, I have completed multiple projects, showcasing proficiency in front-end and back-end technologies. From creating responsive user interfaces to implementing robust server-side functionality, I strive for clean and efficient code.
 
