@@ -1,5 +1,4 @@
-###Hi there 👋
-My self Raghav Dutta
+### Hi, I am Raghav!
 
 Passionate Web Developer | WEB3 Enthusiast
 
